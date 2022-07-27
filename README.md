@@ -28,7 +28,18 @@ npm run dev
 npm start
 ```
 
+## Atención para sistema operativo Windows (?)
+Si aparece el siguiente mensaje:
+```sh
+Error: Cannot find module 'uuid'.
+```
+Debe  instalarse la librería, ejecutando `npm i uuid`
+
+
 ## Acerca de
+rc95 - 27/07/2022 09:28
+- Cambios en el readme para SO Windows
+
 rc95 - 26/07/2022 20:38
 - Primera versión del proyecto
 - Se agrega .gitignore
